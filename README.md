@@ -1,3 +1,5 @@
+> This repo has been archived and the packaged crowded deprecated in favor of the crowdedjs/recast-detour repo and the @crowdedjs/recast-detour package.
+
 # Recast Detour ported to JavaScript
 
 This is a JavaScript implementation of the Recast Navigation [library](https://github.com/recastnavigation/recastnavigation), also called Recast Detour. This implementation is not a direct implementation, but a port of the Java [port](https://github.com/ppiastucki/recast4j).
